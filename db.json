@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "Employee": [
+    {
+      "firstName": "raman",
+      "lastName": "kumar",
+      "Email": "ramakumar060203@gmail.com",
+      "dob": "02-06-2003",
+      "Gender": "Male",
+      "education": "Graduate",
+      "Company": "ABC",
+      "experience": 1,
+      "package": 20,
+      "id": "41f0"
+    },
+    {
+      "id": "f258",
+      "firstName": "Kavish ",
+      "lastName": "Gupta",
+      "Email": "kavish@gmail.com",
+      "dob": "03-05-2004",
+      "Gender": "Female",
+      "education": "Matric",
+      "Company": "Amazon",
+      "experience": 0,
+      "package": 2.5
+    }
+  ]
+}
